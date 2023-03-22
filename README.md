@@ -35,3 +35,4 @@
 33. ls
 34. ssh-keygen
 35. cat clave.pub
+36. git push
